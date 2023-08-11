@@ -17,3 +17,4 @@ printf("Size of long int:%lu byte(s)\n",(unassigned long)"sizeof(c));
 printf("Size of long long int:%lu byte(s)\n",(unassigned long)"sizeof(d));
 printf("Size of float:%lu byte(s)\n",(unassigned long)"sizeof(f));
 return (0);
+}
